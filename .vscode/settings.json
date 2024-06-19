@@ -1,0 +1,10 @@
+{
+  "stylelint.validate": ["css", "less", "postcss", "scss"],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit",
+    "source.fixAll.prettier": "explicit"
+  },
+  "editor.formatOnSave": true
+}
