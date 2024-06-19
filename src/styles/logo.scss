@@ -1,9 +1,9 @@
-.logo{
+.logo {
   text-align: center;
 }
 
 .logo h1 {
-  font: 8rem 'bebas-neue', sans-serif;
+  font: 8rem "Bebas Neue", sans-serif;
   color: #ddd;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
   margin: 0;
@@ -11,7 +11,7 @@
 }
 
 .logo h1 span {
-  color: #1F80B8;
+  color: #1f80b8;
 }
 
 .logo h2 {
@@ -25,10 +25,10 @@
 }
 
 @media only screen and (min-width: 768px) {
-  .logo h1{
-    font-size:12rem;
+  .logo h1 {
+    font-size: 12rem;
   }
-  
+
   .logo h2 {
     font-size: 3rem;
   }
